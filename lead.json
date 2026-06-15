@@ -12,5 +12,9 @@
   "value_signal": "Notaria en Calle Madrid de Getafe, +30 anos de experiencia y operaciones inmobiliarias/familiares/mercantiles.",
   "demo_url": "https://demo-getafe-notaria-sagrario-alvare.vercel.app",
   "github_url": "https://github.com/AlfonsoCifuentes/demo-getafe-notaria-sagrario-alvarez",
-  "outreach_status": "drafted_not_sent"
+  "outreach_status": "queued_pending",
+  "outreach_queue_id": "hermes-webdemo-20260615-012",
+  "outreach_version": "hermes-prepared-custom-v1-20260615",
+  "outreach_contact_type": "email publico notarial",
+  "proposed_price": "720 EUR"
 }

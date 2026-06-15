@@ -4,7 +4,7 @@
 - Contact type: email publico notarial
 - Subject: Notaria Sagrario Alvarez: demo para mejorar claridad y citas
 - Proposed price: 720 EUR
-- Demo: https://demo-getafe-notaria-sagrario-alvarez.vercel.app
+- Demo: https://demo-getafe-notaria-sagrario-alvare.vercel.app
 - Source: https://www.notariasagrarioalvarez.com/
 
 Hola Mª Sagrario,
@@ -14,7 +14,7 @@ He revisado la web de la notaria. Se ve activa y con buenos datos de contacto, p
 En notaria la venta no es agresiva; es claridad. Quien necesita una compraventa, una herencia o un poder quiere saber documentacion, ubicacion, horario y como pedir cita.
 
 He preparado una demo mas limpia y documental:
-https://demo-getafe-notaria-sagrario-alvarez.vercel.app
+https://demo-getafe-notaria-sagrario-alvare.vercel.app
 
 Incluye entrada por tramite, checklist de documentos, contacto visible y una imagen mas seria para Getafe.
 
