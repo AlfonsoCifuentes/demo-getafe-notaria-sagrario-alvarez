@@ -1,21 +1,23 @@
 # Email draft - Notaría Sagrario Álvarez
 
 - To: msalvarez@correonotarial.org
-- Subject: Notaría Sagrario Álvarez: propuesta web más clara para cita y trámites
+- Subject: Propuesta web para Notaría Sagrario Álvarez
 - Proposed price: 720 EUR
 - Demo: https://demo-getafe-notaria-sagrario-alvare.vercel.app
 - Source: https://www.notariasagrarioalvarez.com/
 
 Hola Mª Sagrario,
 
+Soy Alfonso Cifuentes, diseñador web.
+
 He preparado una propuesta visual para la notaría:
 https://demo-getafe-notaria-sagrario-alvare.vercel.app
 
-La página está redactada como una web final: trámites, cita, documentación, ubicación y contacto, sin mostrar al visitante ninguna auditoría ni comentario interno.
+La he planteado como una web final: trámites, cita, documentación, ubicación y contacto, con una presentación sencilla para quien necesita resolver una compraventa, herencia, poder, sociedad o testamento.
 
-La web actual puede ganar claridad en móvil y presentar mejor los trámites más habituales: compraventas, herencias, poderes, sociedades y testamentos.
+Creo que una estructura más clara puede facilitar mucho la primera consulta y reducir dudas antes de acudir a la notaría.
 
-Presupuesto cerrado: 720 EUR, pago único. Incluye rediseño responsive, textos adaptados, traspaso de contenido, formulario de cita y publicación.
+El presupuesto para dejarla adaptada y publicada sería de 720 EUR, pago único. Incluye diseño responsive, textos adaptados, traspaso de contenido, formulario de cita y publicación.
 
 Si le parece interesante, puedo enseñarle la propuesta en una llamada breve.
 
