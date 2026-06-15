@@ -12,3 +12,8 @@ Punto debil trabajado:
 La web tiene buena base, pero los textos de cookies en ingles y la jerarquia simple restan claridad en tramites de alto valor.
 
 Stack: HTML estatico, CSS embebido y vercel.json para despliegue en Vercel.
+
+## Publicacion
+
+- GitHub: https://github.com/AlfonsoCifuentes/demo-getafe-notaria-sagrario-alvarez
+- Vercel: https://demo-getafe-notaria-sagrario-alvarez.vercel.app

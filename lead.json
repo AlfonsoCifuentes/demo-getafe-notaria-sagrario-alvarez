@@ -10,7 +10,7 @@
   "price": "720 EUR",
   "weakness": "La web tiene buena base, pero los textos de cookies en ingles y la jerarquia simple restan claridad en tramites de alto valor.",
   "value_signal": "Notaria en Calle Madrid de Getafe, +30 anos de experiencia y operaciones inmobiliarias/familiares/mercantiles.",
-  "demo_url": null,
-  "github_url": null,
+  "demo_url": "https://demo-getafe-notaria-sagrario-alvarez.vercel.app",
+  "github_url": "https://github.com/AlfonsoCifuentes/demo-getafe-notaria-sagrario-alvarez",
   "outreach_status": "drafted_not_sent"
 }
